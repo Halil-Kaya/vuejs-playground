@@ -7,5 +7,3 @@ addBtn.addEventListener('click',() => {
      listItem.textContent = todoText.value;
      todoList.append(listItem)
 })
-
-console.log("wtfssss")
